@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-using-1D-CNN-and-LSTM
