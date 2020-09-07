@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-using-1D-CNN-and-LSTM
+# Human-Activity-Recognition-using-Deep-Neural-Networks
 
 Classification of dynamic body gestures using series of 2D keypoint.
 
